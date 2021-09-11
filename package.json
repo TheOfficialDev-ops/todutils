@@ -1,0 +1,15 @@
+{
+  "name": "todutils",
+  "version": "1.0.0",
+  "description": "The best util handler for bootstrapping your projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "TOD1",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
